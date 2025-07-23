@@ -1,6 +1,11 @@
 User-agent: *
+Allow: /features.html
+Allow: /plans.html
+Allow: /about.html
+Allow: /services.html
 Disallow: /assets/
 Disallow: /drafts/
-Allow: /
+Disallow: /private/
+Disallow: /cgi-bin/
 
 Sitemap: https://chaudharywebhosting.info/sitemap.xml
